@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samaritan23
 - 👀 I’m an open-source enthusiast
-- 🌱 I’m currently learning web development and app development
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development projects more specifically backend development
 - 📫 How to reach me ...
 
 <!---
