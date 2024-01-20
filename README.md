@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samaritan23
+- 👋 Hi, I’m Tamoghno Bakshi
 - 👀 I’m an open-source enthusiast
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects more specifically backend development
